@@ -1,6 +1,6 @@
 name = "edgerado2026"
 main = "_worker.js"
-compatibility_date = "2025-11-04"
+compatibility_date = "026-08-16"
 keep_vars = true
 
 [[kv_namespaces]]
